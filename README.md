@@ -49,6 +49,4 @@ To complete this project, we produced:
 * A schema of the infrastructure we built and why we built it that way
     * in a Google Slide
 
-* The source code of all elements necessary to build our infrastructure 
-
-* A video of our working infrastructure on an example
+* The source code of all elements necessary to build our infrastructure
